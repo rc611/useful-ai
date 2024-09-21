@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Human-robot Interaction by Voice（机器人语音交互)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
